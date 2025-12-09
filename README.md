@@ -72,4 +72,5 @@ A página é composta pelas seguintes seções principais:
 4.  **Footer (`.footer`):** Contém a nota de direitos autorais.
 
 ---
+### Desenvolvido por Gabriel Baldini para fins de estudo em Front-end
 
